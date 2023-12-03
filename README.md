@@ -1,1 +1,1 @@
-# Lumix-remote-control-script
+# Lumix remote control script
